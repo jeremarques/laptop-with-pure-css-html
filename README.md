@@ -1,4 +1,4 @@
-# Notebook with pure CSS
+# Laptop with pure CSS
 
 ## 🛠 Still in development
 ### <a href="https://jeremarques.github.io/notebook-with-pure-css-html/">View Project</a>
